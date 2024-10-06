@@ -1,4 +1,4 @@
-<h1>I’m Jp-22-000540</h1>
+<h1>I’m Jp-22-00540</h1>
 <p>3rd Yr / Computer Science </p>
 
 - 👀 I’m interested in Learning and Reading
