@@ -1,3 +1,7 @@
+
+<h1>Jp-22-000540</h1>
+<p>3rd Yr / Computer Science </p>
+
 - 👋 Hi, I’m @Jp-22-00540
 - 👀 I’m interested in Learning and Reading 
 - 🌱 I’m currently learning Java i guess
