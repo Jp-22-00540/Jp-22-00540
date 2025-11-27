@@ -1,5 +1,5 @@
-<h1>I’m Jp-22-00540</h1>
-<p>4th Yr / Computer Science </p>
+<h1>I’m Jonel Penaflor</h1>
+<p>4th Yr / BS Computer Science </p>
 
 - 👀 I’m interested in Learning and Reading
   
@@ -7,7 +7,7 @@
 
 - 🐱‍👤 How to reach me nel.penaflor21@gmail.com
 
-- ⚡ Fun fact: I love Pixel, Figma
+- ⚡ Fun fact: I love Pixel, Figma, Canva
 
 - 😀 currently in contributing in group project for study.
 
